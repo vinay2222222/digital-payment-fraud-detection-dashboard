@@ -111,7 +111,7 @@ Users can explore data using slicers:
 
 ## 📊 Dashboard Preview
 
-Dashboard screenshot:
+Dashboard screenshots:
 
 ![Dashboard Screenshot](screenshots/dashboard.png)
 ![Dashboard Screenshot](screenshots/dashboard2.png)
