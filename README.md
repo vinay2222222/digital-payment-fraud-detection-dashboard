@@ -127,8 +127,9 @@ This project demonstrates how **data analytics and visualization can support fra
 
 ## 📚 References
 
-- Kaggle – Online Payments Fraud Detection Dataset(https://www.kaggle.com/datasets/rupakroy/online-payments-fraud-detection-dataset/data)  
-- Microsoft Power BI Documentation(https://learn.microsoft.com/power-bi/)  
+- Kaggle – Online Payments Fraud Detection Dataset
+  (https://www.kaggle.com/datasets/rupakroy/online-payments-fraud-detection-dataset/data)  
+- Microsoft Power BI Documentation  (https://learn.microsoft.com/power-bi/)  
 
 ---
 
